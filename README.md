@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olinakundu&label=Profile%20views&color=0e75b6&style=flat" alt="olinakundu" /> </p>
 
-- 🌱 I’m currently learning **Ethical Hacking , Linux**
+- 🌱 I’m currently learning **Ethical Hacking, Bug bounty**
 
-- 💬 Ask me about **Python , C , DSA**
+- 💬 Ask me about **Python, C, DSA, Networking, Kali Linux**
 
 - 📫 How to reach me **olinakundu55@gmail.com**
 
